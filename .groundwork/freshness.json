@@ -1,0 +1,24 @@
+{
+  "AGENTS.md": {
+    "at": "2026-11-03T15:49:01+0000",
+    "by": "noreply@anthropic.com",
+    "epoch": 1793720941,
+    "hash": "abe79026e5ee97ac",
+    "snapshot": {
+      "signals": {}
+    }
+  },
+  "ARCHITECTURE.md": {
+    "at": "2026-11-03T15:49:01+0000",
+    "by": "noreply@anthropic.com",
+    "epoch": 1793720941,
+    "hash": "9285acff6b6b7ed2",
+    "snapshot": {
+      "layout": {
+        "mode": "\"keep\""
+      },
+      "signals": {},
+      "toplevel": []
+    }
+  }
+}

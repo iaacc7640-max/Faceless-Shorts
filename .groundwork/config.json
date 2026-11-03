@@ -1,0 +1,14 @@
+{
+  "standard": "0.7.0",
+  "layout": {
+    "mode": "keep",
+    "decided_by": "noreply@anthropic.com",
+    "decided": "2026-11-03"
+  },
+  "quality": {
+    "mode": "keep",
+    "commands": {},
+    "decided_by": "noreply@anthropic.com",
+    "decided": "2026-11-03"
+  }
+}
