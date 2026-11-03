@@ -1,0 +1,26 @@
+{
+  "title": "What If Your AI Agent Had A Dozen Helpers?",
+  "voice": "am_puck",
+  "speed": 1.0,
+  "lead": 0.35,
+  "outro": 1.0,
+  "gap": 0.26,
+  "music": "bed",
+  "sources": [
+    "Diane Sarkis, 'Building agents: When to fold subagents into your main agent loop', Claude (claude.com), Oct 22 2026: https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop (a company with about a dozen specialist subagents; details get lost in handoffs, a 'telephone game'; start evals with ~10 golden examples; fold subagents in one at a time, prompts become skills that load only when needed; run each task more than once; keep a subagent only if the folded version scores worse; one customer saw roughly 2x faster runtime with a single agent loop)"
+  ],
+  "lines": [
+    { "text": "What would you do if your AI agent had a dozen helpers,", "caps": "What would *you do | if your *agent | had a *dozen helpers," },
+    { "text": "and it still felt slow and kind of confused?", "caps": "it still felt *slow | and kind of *confused?" },
+    { "text": "Well, every handoff is like a game of telephone,", "caps": "every *handoff | is like a *game | of *telephone," },
+    { "text": "where little details get lost along the way.", "caps": "little *details | get *lost | along the *way." },
+    { "text": "Step one: build a small test set first, even ten real examples.", "caps": "Step *one: | build a small *test set | even *ten real examples." },
+    { "text": "Step two: fold one helper back into the main agent,", "caps": "Step *two: | fold *one helper | into the *main agent," },
+    { "text": "turning its prompt into a skill that loads only when needed.", "caps": "its prompt into a *skill | that *loads | only when *needed." },
+    { "text": "Step three: run your tests again, more than once,", "caps": "Step *three: | run your *tests again, | more than *once," },
+    { "text": "and keep the helper only if the folded version scores worse.", "caps": "keep the *helper | only if the *folded version | scores *worse." },
+    { "text": "One team tried this and got about two times faster.", "caps": "One *team tried this | about *two times | *faster." },
+    { "text": "So one brain, one memory, the right tools,", "caps": "So one *brain, | one *memory, | the right *tools," },
+    { "text": "and maybe your agent never needed all those helpers.", "caps": "your agent never *needed | all those *helpers." }
+  ]
+}

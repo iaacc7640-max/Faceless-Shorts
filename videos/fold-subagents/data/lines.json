@@ -1,0 +1,79 @@
+{
+ "duration": 38.141,
+ "voice": "am_puck",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "What would you do if your AI agent had a dozen helpers,",
+   "start": 0.35,
+   "end": 3.5
+  },
+  {
+   "i": 1,
+   "text": "and it still felt slow and kind of confused?",
+   "start": 3.6,
+   "end": 6.084
+  },
+  {
+   "i": 2,
+   "text": "Well, every handoff is like a game of telephone,",
+   "start": 6.344,
+   "end": 8.924
+  },
+  {
+   "i": 3,
+   "text": "where little details get lost along the way.",
+   "start": 9.074,
+   "end": 11.284
+  },
+  {
+   "i": 4,
+   "text": "Step one: build a small test set first, even ten real examples.",
+   "start": 11.544,
+   "end": 15.373
+  },
+  {
+   "i": 5,
+   "text": "Step two: fold one helper back into the main agent,",
+   "start": 15.633,
+   "end": 18.643
+  },
+  {
+   "i": 6,
+   "text": "turning its prompt into a skill that loads only when needed.",
+   "start": 18.793,
+   "end": 22.106
+  },
+  {
+   "i": 7,
+   "text": "Step three: run your tests again, more than once,",
+   "start": 22.366,
+   "end": 24.729
+  },
+  {
+   "i": 8,
+   "text": "and keep the helper only if the folded version scores worse.",
+   "start": 24.729,
+   "end": 28.11
+  },
+  {
+   "i": 9,
+   "text": "One team tried this and got about two times faster.",
+   "start": 28.37,
+   "end": 31.132
+  },
+  {
+   "i": 10,
+   "text": "So one brain, one memory, the right tools,",
+   "start": 31.392,
+   "end": 33.422
+  },
+  {
+   "i": 11,
+   "text": "and maybe your agent never needed all those helpers.",
+   "start": 33.522,
+   "end": 36.88
+  }
+ ]
+}
